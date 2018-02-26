@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MarkerEditableDam</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="action_edit_map">Edit</string>
+</resources>
